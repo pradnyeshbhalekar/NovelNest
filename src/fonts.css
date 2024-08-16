@@ -1,0 +1,12 @@
+/* src/fonts.css */
+@font-face {
+  font-family: "Clash Display";
+  src: local("ClashDisplay-Variable"),
+    url("./fonts/ClashDisplay-Variable.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Inter";
+  src: local("Inter-Regular"),
+    url("./fonts/Inter-Regular.ttf") format("truetype");
+}
